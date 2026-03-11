@@ -19,7 +19,9 @@
 <img src="https://skillicons.dev/icons?i=laravel" />
 <img src="https://skillicons.dev/icons?i=wordpress" />
 <img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=json" />
 <img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=git" />
