@@ -48,11 +48,21 @@
 ---
 
 ### 📫 Connect With Me
+<p align="left">
 
-- GitHub: https://github.com/mohamedramadan217
-- LinkedIn: (https://www.linkedin.com/in/mohamed-ramadan-b811133a1?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- Email: mo7amedramad2n@email.com
+<a href="https://github.com/mohamedramadan217">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/mohamed-ramadan-b811133a1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mo7amedramad2n@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ⭐ From [Mohammed Ramadan](https://github.com/mohamedramadan217)
