@@ -50,6 +50,7 @@
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/mohamedramadan217
+- LinkedIn: (https://www.linkedin.com/in/mohamed-ramadan-b811133a1?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - Email: mo7amedramad2n@email.com
 
 ---
